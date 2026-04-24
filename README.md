@@ -115,3 +115,10 @@ Checked-in audio files are excluded from the public snapshot. To use greeting au
 - Provider-backed STT, TTS, and LLM behavior is configured but not exercised by the unit tests.
 - The ISP lookup endpoint is an integration seam; public tests use stubs and fictional data.
 - The project is a prototype, not a hardened production contact-center deployment.
+
+
+## License
+
+No license is provided. All rights reserved.
+
+This repository is public for portfolio and review purposes only. You may view the source code, but you may not copy, modify, distribute, or use it without explicit written permission from the author.
