@@ -1,0 +1,14 @@
+# Runtime dependencies (pinned from the current working environment)
+google-api-core==2.29.0
+google-auth==2.48.0
+google-cloud-speech==2.36.0
+numpy==2.4.2
+openai==2.16.0
+pipecat-ai-flows==1.0.0
+python-dotenv==1.2.1
+requests==2.32.5
+silero-vad==6.2.0
+torch==2.10.0
+torchaudio==2.10.0
+websockets==16.0
+pydantic
