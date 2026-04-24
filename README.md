@@ -1,6 +1,5 @@
-# Demo Voice Assistant
-
-Demo Voice Assistant is a two-process SIP voice AI prototype for inbound telecom support calls. It connects a native SIP/RTP gateway to a Python Pipecat runtime, collects caller input through speech and DTMF, looks up ISP account context, routes support flows, and writes local call artifacts for audit and debugging.
+# Georgian Voice AI Operator
+Georgian Voice AI Operator is a two-process SIP voice AI prototype for inbound telecom support calls. It connects a native SIP/RTP gateway to a Python Pipecat runtime, collects caller input through speech and DTMF, looks up ISP account context, routes support flows, and writes local call artifacts for audit and debugging.
 
 ## Problem Solved
 
